@@ -1,6 +1,4 @@
 Hello its Alireza Jafari 
 # Mars
-this repository is for my learning process 
-
-a new line of code
-second new line of code
+this repository is for my learning process if i invited you to this reposiotory please push sth on it 
+thank you 
